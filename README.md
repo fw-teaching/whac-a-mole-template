@@ -1,2 +1,2 @@
-# whac-a-mole-template
-FeP Course Project Template
+# Whac-A-Mole
+Course Project
